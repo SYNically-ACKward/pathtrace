@@ -1,6 +1,6 @@
 # PathTrace — Network Decision Analyzer
 
-A single-window, engineer-grade Tauri 2.x desktop app that shows you exactly what your OS will do with a packet — resolver selected, route matched, egress interface chosen, and firewall decision — before the packet leaves your machine.
+A single-window, engineer-grade Tauri 2.x desktop app that shows you exactly what your OS will do with a packet — resolver selected, route matched, egress interface chosen, and firewall decision — before the packet leaves your machine. Co-Authored with Perplexity Computer (April 2026) and Claude Sonnet 4.6.
 
 ---
 
