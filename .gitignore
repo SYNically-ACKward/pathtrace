@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+src-tauri/target/
+src-tauri/gen/
+
+# Vite
+*.local
+.vite/
+
+# Tauri
+src-tauri/WixTools/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime / temp
+*.pid
+*.seed
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Test coverage
+coverage/
